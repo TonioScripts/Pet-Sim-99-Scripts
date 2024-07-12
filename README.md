@@ -13,3 +13,7 @@ Features:
 🧇 Full TP
 
 🕑 AFK Auto-Complete Whole Game
+
+Working On:
+
+🛩️ Universal Shoutout Feature
